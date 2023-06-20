@@ -1,0 +1,11 @@
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\bin\Debug\listboxpo2.exe.config
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\bin\Debug\listboxpo2.exe
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\bin\Debug\listboxpo2.pdb
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.Form1.resources
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.Properties.Resources.resources
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.csproj.GenerateResource.cache
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.exe
+C:\Users\claud\source\repos\listboxpo2\listboxpo2\obj\Debug\listboxpo2.pdb
